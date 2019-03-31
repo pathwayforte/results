@@ -1,0 +1,27 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+
+.idea/
+
+.pytest_cache
+
+resources/*
+.DS_Store
