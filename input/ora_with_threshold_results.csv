@@ -1,0 +1,17 @@
+,dataset,database,enriched_pathways
+0,BRCA,KEGG,28
+1,BRCA,Merged,245
+2,BRCA,Reactome,182
+3,BRCA,WikiPathways,40
+4,KIRC,KEGG,8
+5,KIRC,Merged,31
+6,KIRC,Reactome,21
+7,KIRC,WikiPathways,3
+8,LIHC,KEGG,11
+9,LIHC,Merged,102
+10,LIHC,Reactome,82
+11,LIHC,WikiPathways,18
+12,PRAD,KEGG,18
+13,PRAD,Merged,39
+14,PRAD,Reactome,17
+15,PRAD,WikiPathways,9
