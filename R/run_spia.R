@@ -24,8 +24,6 @@ setwd("/Users/danieldomingo/.pathme/spia/kegg")
 filenames <-list.files(path = ".")
 path.info = lapply(paste0(getwd(),"/", filenames), read_allsheets) 
 filenames = gsub('_unflatten','',filenames)
-filenames = gsub('hsa','',filenames)
-filenames = gsub('R-HSA-','',filenames)
 filenames = gsub('.xlsx','',filenames)
 
 names(path.info) = filenames
