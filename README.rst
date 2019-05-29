@@ -1,22 +1,18 @@
 PathwayForte Resources/Results
 ==============================
-
 Resources for the benchmarking of KEGG [1]_ [2]_ [3]_, Reactome [4]_ [5]_, and WikiPathways [6]_ [7]_ [8]_ on statistical enrichment and predictive Modeling using `PathwayForte <https://github.com/pathwayforte/pathway-forte>`_.
 
 Structure
 ---------
-
 - `Notebooks <https://github.com/pathwayforte/results/tree/master/notebooks/>`_. Jupyter notebooks showing the results of the analysis.
 - `R <https://github.com/pathwayforte/results/tree/master/R>`_. Scripts to download, query and preprocessing TCGA datasets.
 - `Input <https://github.com/pathwayforte/results/tree/master/input/>`_: Directories containing gmt files, TCGA gene expression data, enrichment scores and test data used in the paper
   (in case proprocessing has been already conducted)
 
-
 References
 ----------
 KEGG
 ~~~~
-
 .. [1] Kanehisa, *et al.* (2017) KEGG: new perspectives on genomes, pathways, diseases and drugs. Nucleic Acids Res. 45,
        D353-D361.
 .. [2] Kanehisa, M., *et al.* (2016). KEGG as a reference resource
