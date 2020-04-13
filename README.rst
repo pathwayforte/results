@@ -7,7 +7,7 @@ If you find ``pathway_forte`` useful for your work, please consider citing [9]_:
 .. [9] Mubeen, S., Hoyt, C. T., Gemünd, A., Hofmann-Apitius, M., Fröhlich, H., &
        Domingo-Fernández, D. (2019). `The Impact of Pathway Database Choice on
        Statistical Enrichment Analysis and Predictive Modeling
-       <https://doi.org/10.1101/654442>`_. *bioRxiv*, 654442.
+       <https://doi.org/10.3389/fgene.2019.01203>`_. *Front. Genet.*, 10:1203.
 
 Structure
 ---------
